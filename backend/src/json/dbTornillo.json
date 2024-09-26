@@ -1,0 +1,24 @@
+{
+    "tornillo": [
+        {
+            "nombre": "Tornillo Inox para decks",
+            "imagen": "https://res.cloudinary.com/dssiecfn9/image/upload/v1727225401/Tornillo1_todxf5.png",
+            "descripción": "Los tornillos de acero inoxidable tienen propiedades resistentes a la interperie, lo que los hace adecuados para crear terrazas, muebles de exterior, cobertizos, decoraciones de jardin y más. También se utilizan en áreas con alta contaminación, como centros urbanos y cerca de las principales rutas de tráfico. La cabeza es ovalada con fresa bajo cabeza, permite la instalación al ras",
+            "tamaño": "4x60",
+            "piezas": 500,
+            "puntero": "T20",
+            "stock": 100,
+            "precio": 240
+        },
+        {
+            "nombre": "Tornillo con cabeza tipo Jolt, TX 10",
+            "imagen": "https://res.cloudinary.com/dssiecfn9/image/upload/v1727225535/Tornillo2_plnecn.png",
+            "descripción": "Los tornillos Jolt son tornillos con una cabeza de pequeño diámetro, como un clavo Jolt, que deja un pequeño orificio discreto al fijar tablas y listones decorativos, marcos de vetanas y puertas que requieren un acabado más cuidado.",
+            "tamaño": "4x60",
+            "piezas": 500,
+            "puntero": "T10",
+            "stock": 100,
+            "precio": 235
+        }
+    ]
+}
